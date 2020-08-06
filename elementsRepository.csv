@@ -1,0 +1,9 @@
+Главная страница;;
++Главная страница;Найти;Button;xpath;//div[@class='search2__button']/button
+Главная страница;поле поиска;TextInput;xpath;//span[@class='input__box']
+Главная страница;Пароль;CheckBox;xpath;//div[3]
+Вторая страница;;
++Вторая страница;Найти;Button;xpath;something
+Вторая страница;поле поиска;TextInput;xpath;something
+Вторая страница;Пароль;CheckBox;xpath;something
+
